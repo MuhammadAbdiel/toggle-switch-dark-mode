@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Toggle Switch Dark Mode
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Demo App
+
+https://toggle-switch-dark-mode.netlify.app
 
 ## Available Scripts
 
